@@ -1,0 +1,137 @@
+@font-face {
+  font-family: 'Plantin MT Pro Regular';
+  font-style: normal;
+  font-weight: normal;
+  src:
+      local('Plantin MT Pro Regular'),
+      url('../assets/fonts/PlantinMTProRg.woff')
+      format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Plantin MT Pro Italic';
+  font-style: normal;
+  font-weight: normal;
+  src:
+      local('Plantin MT Pro Italic'),
+      url('../assets/fonts/PlantinMTProRgIt.woff')
+      format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Plantin MT Pro Light';
+  font-style: normal;
+  font-weight: normal;
+  src:
+      local('Plantin MT Pro Light'),
+      url('../assets/fonts/PlantinMTProLight.woff')
+      format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Plantin MT Pro Light Italic';
+  font-style: normal;
+  font-weight: normal;
+  src:
+      local('Plantin MT Pro Light Italic'),
+      url('../assets/fonts/PlantinMTProLightIt.woff')
+      format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Plantin MT Pro Semibold';
+  font-style: normal;
+  font-weight: normal;
+  src:
+      local('Plantin MT Pro Semibold'),
+      url('../assets/fonts/PlantinMTProSmBd.woff')
+      format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Plantin MT Pro Semibold Italic';
+  font-style: normal;
+  font-weight: normal;
+  src:
+      local('Plantin MT Pro Semibold Italic'),
+      url('../assets/fonts/PlantinMTProSemiBdIt.woff')
+      format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Plantin MT Pro Bold';
+  font-style: normal;
+  font-weight: normal;
+  src:
+      local('Plantin MT Pro Bold'),
+      url('../assets/fonts/PlantinMTProBold.woff')
+      format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Plantin MT Pro Bold Condensed';
+  font-style: normal;
+  font-weight: normal;
+  src:
+      local('Plantin MT Pro Bold Condensed'),
+      url('../assets/fonts/PlantinMTProCnBd.woff')
+      format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Plantin MT Pro Bold Italic';
+  font-style: normal;
+  font-weight: normal;
+  src:
+      local('Plantin MT Pro Bold Italic'),
+      url('../assets/fonts/PlantinMTProBoldIt.woff')
+      format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'DiMurphic';
+  src: local('DiMurphic'),
+      url('../assets/fonts/DiMurphic.woff2') format('woff2'),
+      url('../assets/fonts/DiMurphic.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CaligulaDodgy';
+  src: local('CaligulaDodgy'),
+      url('../assets/fonts/CaligulaDodgy.woff2') format('woff2'),
+      url('../assets/fonts/CaligulaDodgy.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+.font-plantin {
+  font-family: 'Plantin MT Pro Regular';
+}
+.font-plantin-bold {
+  font-family: 'Plantin MT Pro Bold';
+}
+.font-plantin-light {
+  font-family: 'Plantin MT Pro Light';
+}
+.font-plantin-italic {
+  font-family: 'Plantin MT Pro Italic';
+}
+.font-papyrus {
+  font-family: 'DiMurphic';
+}
+.font-caligula {
+ font-family: 'CaligulaDodgy';
+}

@@ -1,0 +1,35 @@
+{
+  "name": "osdg-landing",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@vueuse/core": "^6.3.2",
+    "animate.css": "^4.1.1",
+    "animejs": "^3.2.1",
+    "fontfaceobserver": "^2.1.0",
+    "js-cookie": "^3.0.1",
+    "lethargy": "^1.0.9",
+    "pdfjs-dist": "2.10.377",
+    "prefetch-image": "^1.1.1",
+    "scrollmagic": "^2.0.8",
+    "vue": "^3.2.6",
+    "vue-router": "^4.0.11",
+    "vue3-smooth-scroll": "^0.8.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.6.0",
+    "@vue/compiler-sfc": "^3.2.6",
+    "autoprefixer": "^10.3.4",
+    "eslint": "^7.32.0",
+    "eslint-plugin-vue": "^7.17.0",
+    "postcss": "^8.3.6",
+    "sass": "^1.39.0",
+    "tailwindcss": "^2.2.9",
+    "vite": "^2.5.2",
+    "vite-plugin-eslint": "^1.3.0"
+  }
+}
